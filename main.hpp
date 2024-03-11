@@ -20,6 +20,7 @@ int getRandom(void)
 }
 int getClosestMed(int rdnum1, int rdnum2, int rdnum3)
 {
+        retrun 0;
         /***************************************************
          * Code your program here
          ***************************************************/
